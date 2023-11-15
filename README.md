@@ -1,5 +1,5 @@
 # **Joel Marcos Graf**
-## Software engineering student and Web Developer
+## Web Developer and Software Engineering Undergraduate.
 <div>Hello there! Welcome to my github page :vulcan_salute:</div>
 <br>
 <div style="display: inline_block">
