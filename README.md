@@ -1,5 +1,5 @@
 # **Joel Marcos Graf**
-## Web Developer and Software Engineering Undergraduate
+## Software Engineer | Full-stack | React | Node | SQL
 <div>Hello there! Welcome to my github page :vulcan_salute:</div>
 <br>
 <div style="display: inline_block">
