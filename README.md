@@ -1,5 +1,5 @@
 # **Joel Marcos Graf**
-## Software Engineer | Full-stack Developer | React | Java | SQL
+## Software Developer | Full-stack | React | Node | SQL
 <div>Hello there! Welcome to my github page :vulcan_salute:</div>
 <br>
 <div style="display: inline_block">
